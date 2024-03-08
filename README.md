@@ -1,7 +1,7 @@
 This application looks for the Roblox window, waits for it to become visible & changes the window title. That's it.
 Why does this exist? I felt like it.
 
-The code includes a small "debug mode"! If you rebuild the program with it enabled, the console will not close immediately & provide a little information on what's going on.
+The code includes a small "debug mode"! If you rebuild the program with it enabled, the console will not close immediately & provides a little information on what's going on.
 
 HOW TO USE
 ===
